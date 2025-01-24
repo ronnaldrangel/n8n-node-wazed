@@ -1,7 +1,5 @@
-![image](https://github.com/user-attachments/assets/813b7b34-377c-42e8-9f1a-12e27e682c7f)
-
 <p align="center"><br>
-Este <b>Community Nodes</b> es una solución 100% gratuita, creada con el objetivo de simplificar y ayudar a toda la comunidad a integrar y utilizar al máximo los principales recursos ofrecidos por la <b>Evolution API v2.2+</b> en sus proyectos en N8N. <b>Desarrollado por OrionDesign.</b>
+Este <b>Community Nodes</b> es una solución 100% gratuita, creada con el objetivo de simplificar y ayudar a toda la comunidad a integrar y utilizar al máximo los principales recursos ofrecidos por la <b>Wazend API</b> en sus proyectos en N8N.
 </p>
 <br>
 
@@ -12,7 +10,7 @@ Este <b>Community Nodes</b> es una solución 100% gratuita, creada con el objeti
 Para utilizar nuestro <b>Community Node</b>, es necesario cumplir con los siguientes requisitos:  
 <ul>
   <li><b>N8N</b> en la versión <b>1.54.4</b> o superior</li>
-  <li><b>Evolution API</b> en la versión <b>2.2.0</b> o superior</li>
+  <li><b>Wazend API</b> en la versión <b>2.2.0</b> o superior</li>
 </ul>
 
 <h1></h1>
